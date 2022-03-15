@@ -1,0 +1,31 @@
+body{
+	font-family:  'Mina', sans-serif;
+	background-color: #B0E0E6;
+	color: darkred;
+	text-align: center;
+
+}
+
+img {
+	height: 80px;
+	margain: 10px;
+}
+
+.top{
+	width: 80%;
+	height: 150px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	border: navy 5px double;
+	margain: 10px auto;
+	background-color: cornsilk;
+}
+
+.top2{
+	background-color: PeachPuff;
+	padding: 2px 20px;
+	height: 80%;
+	border: indigo 2px solid;
+}	
